@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{3DC7005B-78EB-4143-BD2D-49B8901DBE41}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{4FB299BE-DD6C-4AAD-A753-F4C23B709D0B}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Bracket Matching  Source Code.docx = Docs\Bracket Matching  Source Code.docx
+		Docs\Bracket Matching Use Case And Testing.docx = Docs\Bracket Matching Use Case And Testing.docx
+		Docs\Technical Assessment - JobNimbus.pdf = Docs\Technical Assessment - JobNimbus.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
